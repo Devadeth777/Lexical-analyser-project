@@ -268,3 +268,141 @@ gcc dcb.c
 ./a.out
 gcc dcb.c
 ./a.out
+lexical
+lexical
+touch lexical
+git--version
+sudo apt install git
+git init
+git branch -m <name>
+git branch -m main
+git branch
+ls -a
+git status
+git add .
+git status
+git commit -m "initial check"
+git config --global user.name "devadeth"
+git config --global user.email"devadeth111@gmail.com"
+git commit -m "initial check"
+git log
+git log --oneline
+git remote add origin https://github.com/Devadeth777/Lexical-analyser-project.git
+git push -u origin main
+pwd
+ls -a
+cd lexical
+pwd
+git rev-parse --show-toplevel
+echo ".vscode-server/" >> ~/.gitignore
+git rm -r --cached .vscode-server
+git add `/.gitignore
+git status
+echo ".vscode-server/" >> .gitignore
+git add.gitignore
+git add .gitignore
+git add .
+echo ".vscode-server/" >> .gitignore
+git add .gitignore
+git status
+git add .gitignore
+git add .
+git commit --amend --no-edit
+git push -u origin main
+touch 4321.c
+gcc4321.c
+gcc 4321.c
+./a.out
+gcc 4321.c
+./a.out
+to#ifndef GRAINS_H
+#define GRAINS_H
+#include <stdint.h>
+uint64_t square(uint8_t index);
+uint64_t total(void);
+#endif
+touch pattern123.c
+gcc pattern123.c
+./a.out
+gcc pattern123.c
+./a.out
+touch pattern_2.c
+gcc pattern_22.c
+gcc pattern_2.c
+./a.out
+gcc pattern_2.c
+./a.out
+gcc pattern_2.c
+./a.out
+touch pattern_2opti.c
+gcc  pattern_2opti.c
+./a.out
+gcc  pattern_2opti.c
+./a.out
+gcc  pattern_2opti.c
+./a.out
+touch patternx.c
+gcc patternx.c
+./a.out
+gcc patternx.c
+./a.out
+gcc patternx.c
+./a.out
+touch pattsuare.c
+gcc pattsuare.c
+./a.out
+touch suarpatterne.c
+gcc suarpatterne.c
+./a.out
+gcc suarpatterne.c
+./a.out
+gcc suarpatterne.c
+./a.out
+gcc suarpatterne.c
+./a.out
+touch reversepyra.c
+gcc  reversepyra.c
+./a.out
+touch digicount,c
+touch digicount.c
+gcc  digicount.c
+./a.out
+gcc  digicount.c
+./a.out
+touch digisum.c
+gcc digisum.c
+./a.out
+touch spy_num.c
+gcc  spy_num.c
+touch spy_num.c
+gcc  spy_num.c
+./a.out
+touch niven_number.c
+touch Neon_number.c
+gcc  Neon_number.c
+./a.out
+gcc  Neon_number.c
+./a.out
+gcc  Neon_number.c
+./a.out
+touch factorial.c
+gcc factorial.c
+./a.out
+touch sumofoddeven.c
+gcc sumofoddeven.c
+./a.out
+gcc sumofoddeven.c
+./a.out
+touch abcdpyramid.c
+gcc pattern123.c
+./a.out
+gcc abcdpyramid.c
+./a.out
+gcc abcdpyramid.c
+./a.out
+gcc abcdpyramid.c
+./a.out
+gcc abcdpyramid.c
+./a.out
+gcc abcdpyramid.c
+./a.out
