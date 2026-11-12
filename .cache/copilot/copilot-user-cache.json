@@ -4,15 +4,15 @@
   "copilotUserCache": {
     "v1:4afbf46c2c1360bff746f5039a54706d529b02a5ac8d8d6c05b240362190cc11": {
       "schemaVersion": 1,
-      "generation": "b125c4a8-591d-42eb-b432-920355c439fa",
-      "retrievedAt": "2026-10-30T09:22:01.195Z",
+      "generation": "47dd722b-6810-4f99-b888-c7c29973fdba",
+      "retrievedAt": "2026-11-12T10:09:42.000Z",
       "response": {
         "login": "Devadeth777",
-        "access_type_sku": "no_access",
+        "access_type_sku": "free_limited_copilot",
         "analytics_tracking_id": "d8be0f7ec2630c7d1d3f16b35f725587",
-        "assigned_date": null,
-        "can_signup_for_limited": true,
-        "chat_enabled": false,
+        "assigned_date": "2026-10-30T15:53:38+05:30",
+        "can_signup_for_limited": false,
+        "chat_enabled": true,
         "copilot_plan": "individual",
         "copilotignore_enabled": false,
         "endpoints": {
@@ -25,14 +25,61 @@
         "organization_login_list": [],
         "organization_list": [],
         "enterprise_list": [],
-        "is_mcp_enabled": false,
+        "is_mcp_enabled": true,
+        "quota_reset_date": "2026-12-01",
+        "quota_snapshots": {
+          "chat": {
+            "entitlement": 200,
+            "overage_count": 0,
+            "overage_permitted": false,
+            "percent_remaining": 100,
+            "quota_id": "chat",
+            "quota_remaining": 200,
+            "remaining": 200,
+            "unlimited": false,
+            "timestamp_utc": "2026-11-12T02:09:28.258-08:00",
+            "has_quota": true,
+            "quota_reset_at": 0,
+            "token_based_billing": true
+          },
+          "completions": {
+            "entitlement": 2000,
+            "overage_count": 0,
+            "overage_permitted": false,
+            "percent_remaining": 100,
+            "quota_id": "completions",
+            "quota_remaining": 2000,
+            "remaining": 2000,
+            "unlimited": false,
+            "timestamp_utc": "2026-11-12T02:09:28.258-08:00",
+            "has_quota": true,
+            "quota_reset_at": 0,
+            "token_based_billing": true
+          },
+          "premium_interactions": {
+            "entitlement": 0,
+            "overage_count": 0,
+            "overage_permitted": false,
+            "percent_remaining": 0,
+            "quota_id": "premium_interactions",
+            "quota_remaining": 0,
+            "remaining": 0,
+            "unlimited": false,
+            "timestamp_utc": "2026-11-12T02:09:28.258-08:00",
+            "has_quota": false,
+            "quota_reset_at": 0,
+            "token_based_billing": true
+          }
+        },
         "restricted_telemetry": true,
         "enterprise_usage_telemetry": false,
         "is_staff": false,
-        "te": false,
-        "can_upgrade_plan": false,
+        "te": true,
+        "token_based_billing": true,
+        "can_upgrade_plan": true,
+        "quota_reset_date_utc": "2026-12-01T00:00:00.000Z",
         "cloud_session_storage_enabled": false,
-        "cli_remote_control_enabled": false
+        "cli_remote_control_enabled": true
       }
     }
   }

@@ -406,3 +406,513 @@ gcc abcdpyramid.c
 ./a.out
 gcc abcdpyramid.c
 ./a.out
+gcc abcdpyramid.c
+./a.out
+gcc abcdpyramid.c
+./a.out
+gcc abcdpyramid.c
+./a.out
+touch terenary.c
+gcc abcdpyramid.c
+./a.out
+gcc terenary.c
+./a.out
+gcc terenary.c
+./a.out
+gcc terenary.c
+./a.out
+gcc terenary.c
+./a.out
+gcc terenary.c
+./a.out
+touch zeroterenary.c
+touch terenarypositiveevenodd.c
+gcc terenarypositiveevenodd.c
+./a.out
+gcc terenarypositiveevenodd.c
+./a.out
+touch strong.c
+gcc strong.c
+./a.out
+gcc strong.c
+./a.out
+gcc strong.c
+./a.out
+touch terenary.c
+gcc terenary.c
+touch pyra101.c
+gcc pyra101.c
+touch pyra101.c
+./a.out
+gcc pyra101.c
+./a.out
+gcc pyra101.c
+./a.out
+gcc pyra101.c
+./a.out
+gcc pyra101.c
+./a.out
+gcc pyra101.c
+./a.out
+touch magicnumber.c
+gcc magicnumber.c
+./a.out
+gcc amstrong.c
+touch amstrong.c
+touch automorphic.c
+touch table_generation.c
+gcc table_generation.c
+./a.out
+gcc table_generation.c
+./a.out
+touch menusellect.c
+touch studymaterial.c
+mkdir array
+cd array
+touch array_1.c
+gcc array_1,c
+gcc array_1.c
+./a.out
+gcc array_1.c
+./a.out
+gcc array_1.c
+./a.out
+gcc array_1.c
+./a.out
+touch array2
+touch array2.c
+gcc  array2.c
+gcc array2.c
+touch array2.c
+gcc array2.c
+./a.out
+touch average.c
+gcc average.c
+./a.out
+gcc average.c
+./a.out
+touch largest.c
+gcc largest.c
+./a.out
+gcc largest.c
+./a.out
+gcc largest.c
+./a.out
+gcc largest.c
+./a.out
+gcc largest.c
+./a.out
+mkdir prime_pet
+cd prime_pet
+touch primenum.c
+touch primetill_limit.c
+cd array
+touch arrayevenodd.c
+gcc arrayevenodd.c
+./a.out
+gcc arrayevenodd.c
+./a.out
+touch arrayseperatearray.c
+gcc arrayseperatearray.c
+./a.out
+gcc arrayseperatearray.c
+./a.out
+gcc arrayseperatearray.c
+./a.out
+gcc arrayseperatearray.c
+./a.out
+gcc arrayseperatearray.c
+./a.out
+gcc arrayseperatearray.c
+./a.out
+gcc arrayseperatearray.c
+./a.out
+gcc arrayseperatearray.c
+./a.out
+gcc arrayseperatearray.c
+./a.out
+cd prime.c
+cd prime_pet
+touch prime2.c
+gcc prime2.c
+./a.out
+gcc prime2.c
+./a.out
+touch reverse.c
+gcc prime2.c
+./a.out
+gcc reverse.c
+./a.out
+gcc reverse.c
+./a.out
+gcc reverse.c
+./a.out
+gcc reverse.c
+./a.out
+gcc reverse.c
+./a.out
+gcc reverse.c
+./a.out
+gcc patternx.c
+./a.out
+mkdir lab
+cd lab
+touch char_based.c
+gcc char_based.c
+./a.out
+gcc char_based.c
+./a.out
+touch selective_sum.c
+touch ugly_number.c
+gcc primetill_limit.c
+cd prime_pet
+gcc primetill_limit.c
+ls
+pwd
+ls
+cd ~/prime_pet
+gcc primetill_limit.c
+./a.out
+gcc primetill_limit.c
+./a.out
+touch primetimes.c
+gcc primetimes.c
+./a.out
+gcc primetimes.c
+./a.out
+gcc primetimes.c
+./a.out
+touch upper_lower.c
+gcc upper_lower.c
+./a.out
+gcc upper_lower.c
+./a.out
+gcc upper_lower.c
+./a.out
+touch lower_upper_till.c
+gcc lower_upper_till.c
+./a.out
+cd ~/array
+touch duplicate.c
+gcc duplicate.c
+./a.out
+gcc duplicate.c
+./a.out
+gcc lower_upper_till.c
+gcc duplicate.c
+cd ~/array
+gcc duplicate.c
+./a.out
+gcc elementcount.c
+gcc elemntcount.c
+./a.out
+gcc elemntcount.c
+./a.out
+gcc elemntcount.c
+./a.out
+gcc elemntcount.c
+./a.out
+touch circular.c
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+gcc circular.c
+./a.out
+touch target.c
+gcc target.c
+gcc circular.c
+./a.out
+cd ~/array
+gcc duplicate.c
+./a.out
+touch elemntcount.c
+gcc elementcount.c
+mkdir array
+cd array
+gcc elementcount.c
+cd ~/array
+gcc elementcount.c
+cd ~/array
+gcc elementcount.c
+touch current_bill.c
+gcc current_bill.c
+./a.out
+gcc current_bill.c
+./a.out
+gcc current_bill.c
+./a.out
+gcc target.c
+./a.out
+touch indexsum.c
+gcc indexsum.c
+./a.out
+touch primemodify.c
+gcc primemodify.c
+./a.out
+touch compareside.c
+for(i=0;i<size;i++)
+gcc compareside.c
+./a.out
+gcc compareside.c
+./a.out
+gcc compareside.c
+gcc compareside.c
+./a.out
+gcc compareside.c
+./a.out
+gcc compareside.c
+./a.out
+touch nonzerosum.c
+gcc nonzerosum.c
+./a.out
+gcc nonzerosum.c
+./a.out
+gcc nonzerosum.c
+./a.out
+gcc nonzerosum.c
+./a.out
+gcc nonzerosum.c
+./a.out
+touch uppertolower.c
+gcc uppertolower.c
+./a.out
+touch largestdigit.c
+gcc largestdigit.c
+./a.out
+gcc largestdigit.c
+./a.out
+mkdir functions
+cd functions
+touch function_1.c
+gcc function_1.c
+./a.out
+3
+4
+gcc function_1.c
+./a.out
+gcc function_1.c
+./a.out
+gcc function_1.c
+./a.out
+touch parity.c
+touch bubble_sort.c
+gcc  bubble_sort.c
+./a.out
+gcc bubble_sort.c
+./a.out
+gcc bubble_sort.c
+./a.out
+touch performance.c
+gcc performance.c
+./a.out
+gcc performance.c
+./a.out
+touch anagrams.c
+gcc anagram.c
+gcc bubble_sort.c
+./a.out
+gcc anagram.c
+ls
+gcc anagrams.c
+./a.out
+touch union.c
+gcc union.c
+./a.out
+touch element_bubble.c
+mkdir pattern
+cd pattern
+touch rightpyramid.c
+gcc rightpyramid.c
+./a.out
+touch lefthalf.c
+gcc lefthalf.c
+./a.out
+gcc lefthalf.c
+./a.out
+gcc lefthalf.c
+./a.out
+gcc lefthalf.c
+./a.out
+gcc lefthalf.c
+./a.out
+gcc lefthalf.c
+./a.out
+touch fullpyramid.c
+gcc fullpyramid.c
+./a.out
+gcc fullpyramid.c
+./a.out
+gcc fullpyramid.c
+./a.out
+touch inverted.c
+gcc inverted.c
+./a.out
+gcc inverted.c
+./a.out
+gcc inverted.c
+./a.out
+touch invertedleft.c
+gcc invertedleft.c
+./a.out
+touch invertedtriangle.c
+gcc invertedtriangle.c
+./a.out
+gcc invertedtriangle.c
+./a.out
+gcc invertedtriangle.c
+./a.out
+gcc invertedtriangle.c
+./a.out
+gcc invertedtriangle.c
+./a.out
+gcc invertedtriangle.c
+./a.out
+gcc invertedtriangle.c
+./a.out
+gcc invertedtriangle.c
+./a.out
+gcc invertedtriangle.c
+./a.out
+touch paralelogram.c
+gcc paralelogram.c
+./a.out
+gcc paralelogram.c
+./a.out
+gcc paralelogram.c
+./a.out
+touch diamond.c
+gcc diamond.c
+./a.out
+gcc diamond.c
+./a.out
+gcc diamond.c
+./a.out
+gcc diamond.c
+./a.out
+gcc diamond.c
+./a.out
+gcc diamond.c
+./a.out
+gcc diamond.c
+./a.out
+gcc diamond.c
+./a.out
+gcc diamond.c
+./a.out
+touch square.c
+gcc square.c
+./a.out
+gcc square.c
+./a.out
+gcc square.c
+./a.out
+gcc square.c
+./a.out
+touch floyid.c
+gcc floyid.c
+./a.out
+gcc floyid.c
+./a.out
+touch  pattern_X.c
+gcc  pattern_X.c
+./a.out
+touch X_number.c
+gcc X_number.c
+./a.out
+touch hourglass.c
+gcc hourglass.c
+touch hourglass.c
+gcc hourglass.c
+./a.out
+gcc hourglass.c
+./a.out
+gcc hourglass.c
+./a.out
+touch diamond.c
+gcc diamond.c
+./a.out
+touch hollowpyramid.c
+touch hollopyramid.c
+gcc hollopyramid.c
+./a.out
+touch hollowinvpiramid.c
+gcc hollowinvpiramid.c
+./a.out
+touch parkingfee.c
+gcc parkingfee.c
+./a.out
+touch mobiledata.c
+gcc mobiledata.c
+./a.out
+gcc mobiledata.c
+./a.out
+touch sallary.c
+touch electricity_bill.c
+gcc electricity_bill.c
+./a.out
+gcc electricity_bill.c
+./a.out
+touch functionsquare.c
+gcc functionsquare.c
+./a.out
+gcc functionsquare.c
+./a.out
+gcc functionsquare.c
+./a.out
+gcc functionsquare.c
+./a.out
+mkdir file.c
+cd file.c
+touch square.c
+touch largestof2.c
+touch largestof2.c
+gcc  largestof2.c
+./a.out
+gcc  largestof2.c
+./a.out
+gcc  largestof2.c
+./a.out
+touch evenodd.c
+gcc  evenodd.c
+./a.out
+touch prime.c
+gcc prime.c
+./a.out
+touch pyra123lateral.c
+gcc  pyra123lateral.c
+./a.out
+gcc  pyra123lateral.c
+./a.out
+gcc  pyra123lateral.c
+./a.out
+gcc  pyra123lateral.c
+./a.out
+gcc  pyra123lateral.c
+./a.out
+gcc  pyra123lateral.c
+./a.out
+gcc  pyra123lateral.c
+./a.out
+gcc  pyra123lateral.c
+./a.out
+gcc  pyra123lateral.c
+./a.out
