@@ -916,3 +916,30 @@ gcc  pyra123lateral.c
 ./a.out
 gcc  pyra123lateral.c
 ./a.out
+touch recuNatural.c
+gcc  recuNatural.c
+./a.out
+touch recurXY.c
+ls -a
+git status
+git add .
+git commit -m "upload"
+git push origin main
+cd ..
+ls -a
+git status
+git add .
+git commit -m "upload"
+git push 
+touch factorial.c
+touch sumofnatural.c
+gcc sumofnatural.c
+./a.out
+touch digicount.c
+gcc digicount.c
+./a.out
+gcc digicount.c
+./a.out
+touch primereverse.c
+gcc pyra123lateral.c
+./a.out

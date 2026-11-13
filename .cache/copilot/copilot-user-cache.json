@@ -4,8 +4,8 @@
   "copilotUserCache": {
     "v1:4afbf46c2c1360bff746f5039a54706d529b02a5ac8d8d6c05b240362190cc11": {
       "schemaVersion": 1,
-      "generation": "47dd722b-6810-4f99-b888-c7c29973fdba",
-      "retrievedAt": "2026-11-12T10:09:42.000Z",
+      "generation": "21f767d3-da4f-442b-acb5-16c19bfaa528",
+      "retrievedAt": "2026-11-13T09:23:29.421Z",
       "response": {
         "login": "Devadeth777",
         "access_type_sku": "free_limited_copilot",
@@ -37,7 +37,7 @@
             "quota_remaining": 200,
             "remaining": 200,
             "unlimited": false,
-            "timestamp_utc": "2026-11-12T02:09:28.258-08:00",
+            "timestamp_utc": "2026-11-13T01:23:15.538-08:00",
             "has_quota": true,
             "quota_reset_at": 0,
             "token_based_billing": true
@@ -51,7 +51,7 @@
             "quota_remaining": 2000,
             "remaining": 2000,
             "unlimited": false,
-            "timestamp_utc": "2026-11-12T02:09:28.258-08:00",
+            "timestamp_utc": "2026-11-13T01:23:15.538-08:00",
             "has_quota": true,
             "quota_reset_at": 0,
             "token_based_billing": true
@@ -65,7 +65,7 @@
             "quota_remaining": 0,
             "remaining": 0,
             "unlimited": false,
-            "timestamp_utc": "2026-11-12T02:09:28.258-08:00",
+            "timestamp_utc": "2026-11-13T01:23:15.538-08:00",
             "has_quota": false,
             "quota_reset_at": 0,
             "token_based_billing": true
